@@ -2,8 +2,7 @@ Here are the credits for the various assets in the wad.
 
 For the 3D Renders:
 Character model is original aside from the firearm, which is taken from
-Deathmatch Classic by Valve
-
+Deathmatch Classic by Valve, and Edited Gib Sprites from Doom.
 DSOOF:
 	Taken from Freedoom
 	https://freedoom.github.io/
