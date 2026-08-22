@@ -1,0 +1,29 @@
+Here are the credits for the various assets in the wad.
+
+For the 3D Renders:
+Character model is original aside from the firearm, which is taken from
+Deathmatch Classic by Valve
+
+DSOOF:
+	Taken from Freedoom
+	https://freedoom.github.io/
+
+DSNOWAY:
+	Stock sound from Pixabay, Pitch Modified by Tofi_Toffee
+	https://pixabay.com/sound-effects/gulp-male-88413/
+
+DSPLPAIN, DSPLDETH:
+	Slime Rancher by Monomi Park:
+	https://store.steampowered.com/app/433340/Slime_Rancher/
+	https://sounds.spriters-resource.com/playstation_4/slimerancher/asset/417564/
+
+	damage_02.wav and fear_01.wav respectively.
+	Modified by Tofi_Toffee, Mostly pitched down.
+
+DSPDIEHI:
+	From Teeworlds: CC-BY-SA 3.0
+	https://github.com/teeworlds/teeworlds/blob/master/datasrc/audio/vo_teefault_pain_long-01.wv
+
+All sounds are compressed to 22050 Hz and converted to Doom format for
+compatibility with various source ports.
+It's a cosmetic mod, it probably shouldn't break any demos.
