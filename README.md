@@ -14,3 +14,4 @@ spotwithsfx.wad - Mugshot and Sound Effect Replacement, but without the third pe
 spot_complete.wad - Replaces the Mugshot, Sounds, and Third Person Player Sprites.  
 spot_custom_pal_support.wad - Same as spot_complete.wad, but colored green instead of blue to allow for custom player colors  
 (i.e In UZDoom)
+spot_weapons.wad - Replaces vanilla weapon graphics with paws of Spot (WIP)
