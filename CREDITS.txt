@@ -23,6 +23,10 @@ DSPDIEHI:
 	From Teeworlds: CC-BY-SA 3.0
 	https://github.com/teeworlds/teeworlds/blob/master/datasrc/audio/vo_teefault_pain_long-01.wv
 
+
+Weapons:
+https://www.doomworld.com/files/file/15990-no-hands/ was used as a base to make the weapons.
+
 All sounds are compressed to 22050 Hz and converted to Doom format for
 compatibility with various source ports.
 It's a cosmetic mod, it probably shouldn't break any demos.
