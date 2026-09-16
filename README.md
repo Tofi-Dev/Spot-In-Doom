@@ -5,7 +5,9 @@ With my dino OC :)
 You may study and modify for personal use, but do not redistribute without my permission.
 You may not use this mod for commercial purposes.
 
-This mod has been tested with Nugget Doom, UZDoom, and Chocolate Doom.
+This mod has been tested with Nugget Doom and UZDoom.
+
+Currently it doesn't work in Chocolate Doom, Because mugshots cause a Bad V_DrawPatch error.
 
 # Wad Files:
 
