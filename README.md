@@ -9,6 +9,10 @@ This mod has been tested with Nugget Doom, UZDoom, and Chocolate Doom.
 
 # Wad Files:
 
+Current:  
+spot_v2.wad - Brand new Player and Mugshots.
+
+LEGACY:  
 spot.wad - Mugshot Replacement without anything else.  
 spotwithsfx.wad - Mugshot and Sound Effect Replacement, but without the third person player sprites.  
 spot_complete.wad - Replaces the Mugshot, Sounds, and Third Person Player Sprites.  
